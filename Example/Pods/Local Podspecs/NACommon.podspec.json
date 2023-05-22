@@ -1,0 +1,22 @@
+{
+  "name": "NACommon",
+  "version": "0.1.0",
+  "summary": "A short description of NACommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nahuel/NACommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nahuel": "nahuel.kang@dolfa.com"
+  },
+  "source": {
+    "git": "https://github.com/Nahuel/NACommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NACommon/Classes/**/*"
+}

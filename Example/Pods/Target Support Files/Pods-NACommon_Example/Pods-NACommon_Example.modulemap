@@ -1,0 +1,6 @@
+framework module Pods_NACommon_Example {
+  umbrella header "Pods-NACommon_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
